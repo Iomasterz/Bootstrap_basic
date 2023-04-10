@@ -35,7 +35,7 @@
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
 			<h1 id="colorlib-logo"><a href="index.html">elen<span>.</span></a></h1>
-			<?php include('nav-bar.php') ?>
+			<?php include('nav-bar.php'); ?>
 
 			<div class="colorlib-footer">
 				<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
